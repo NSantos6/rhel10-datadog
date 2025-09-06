@@ -1,7 +1,13 @@
 # Validação do Datadog Agent no Red Hat Enterprise Linux 10
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+![Monitored by Datadog](https://img.shields.io/badge/Monitored_by-Datadog-632CA6?logo=datadog)
 ![Datadog](https://img.shields.io/badge/Datadog-Agent%20v7-632ca6)
 ![RHEL](https://img.shields.io/badge/RHEL-10-red)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 ##  Overview
 

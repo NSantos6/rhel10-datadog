@@ -9,6 +9,10 @@ Este repositório contém os recursos necessários para construir uma imagem Doc
 
 O ambiente em contêiner garante um teste limpo, isolado e 100% reprodutível.
 
+# Observação
+
+Para este teste, estarei utilizando a versão v.7.70.0 do Datadog Agent
+
 ##  Objetivo
 
 O propósito deste projeto é verificar o seguinte:
